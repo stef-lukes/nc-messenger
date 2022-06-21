@@ -17,7 +17,7 @@ http.listen(port, () => {
   console.log(`Socket.IO server running at http://localhost:${port}/`);
 });
 
-function Jeff(teeth, brush) {
+function Jeff(mouth, wash) {
   console.log("Jeff Brushes his teeth");
-  return teeth + brush;
+  return mouth + wash;
 }
