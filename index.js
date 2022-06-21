@@ -22,3 +22,4 @@ function jeff(criticism) {
 
   return self === "insecure" ? "punch and kick" : self + criticism;
 }
+
