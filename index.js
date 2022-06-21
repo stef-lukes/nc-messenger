@@ -17,8 +17,7 @@ http.listen(port, () => {
   console.log(`Socket.IO server running at http://localhost:${port}/`);
 });
 
-function jeff(criticism) {
-  let self = "insecure";
-
-  return self === "insecure" ? "punch and kick" : self + criticism;
+function Jeff(mouth, wash) {
+  console.log("Jeff Brushes his teeth");
+  return mouth + wash;
 }
