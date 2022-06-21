@@ -21,3 +21,7 @@ function Jeff(mouth, wash) {
   console.log("Jeff Brushes his teeth");
   return mouth + wash;
 }
+
+const Jeff = (num1, num2) => {
+  return num1 + num2;
+};
